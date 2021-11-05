@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmVinay59
-- 👀 I’m interested in being a web/app skilled developer 
+- 👀 I’m interested in being a skilled web/app developer 
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate with communities 
 - 📫 help me reach my goal
